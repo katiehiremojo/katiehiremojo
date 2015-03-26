@@ -1,5 +1,7 @@
 .landingcontainer{
   text-align: center;
+  position:relative;
+  width:900px;
 }
 .top{
  vertical-align: middle;
