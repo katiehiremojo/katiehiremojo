@@ -4,7 +4,7 @@
  font-weight: bold;
 }
 #hmlogo{
-	min-width:200px;
+  min-width:200px;
 }
 .top img {
   vertical-align:middle;
@@ -15,7 +15,12 @@
   width: 100%;
   background-color:#FF8C00;
   display:block;
-	height: 15px;
+  height: 15px;
+}
+.landingbody{
+  padding-left:5%;
+  padding-right:5%;
+  width:100%;   
 }
 .blurb{
   text-align:center;  
@@ -25,7 +30,10 @@
   font-weight:bold;
 }
 .blurb p{
-  text-align:left;
+  text-align:center;
+  padding-left:180px;
+  padding-right:180px;
+  padding-bottom:20px;
 }
 .demoform {
   background-color:#E0F5FF;
@@ -38,27 +46,32 @@
 }
 #content-1 {
     float:left;
-    width:300px;
-    padding:25px;
+    text-align:left;
+    width:500px;
+    padding-left:100px;
+    padding-top:25px;
 }
 #content-1 img {
     max-height:80px;
 }
 #content-2 {
     float:left;
-    width:400px;
+    width:600px;
     padding:25px;
 }
 #content-2-1 {
     float:left;
-    width:30px;
+    width:60px;
+    padding-left:40px;
 }
 #content-2-1 img{
-  max-width:30px;
+  max-width:25px;
 }
 #content-2-2 {
-    float:right;
-    width:270px;
+    float:left;
+    width:430px;
+  text-align:left;
+  padding-left:20px;
 }
 #after {
   clear:both;
