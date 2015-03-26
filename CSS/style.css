@@ -44,11 +44,13 @@
   font-size:18px;
   font-weight:bold;    
 }
+#column{
+  width:900px;
+}
 #content-1 {
     float:left;
     text-align:left;
-    width:550px;
-    padding-left:110px;
+    width:450px;
     padding-top:25px;
 }
 #content-1 img {
@@ -56,22 +58,22 @@
 }
 #content-2 {
     float:left;
-    width:550px;
-    padding:25px;
+    width:450px;
+    padding-top:25px;
 }
 #content-2-1 {
     float:left;
     width:40px;
-    padding-left:10px;
+    padding-left:30px;
 }
 #content-2-1 img{
   max-width:25px;
 }
 #content-2-2 {
     float:left;
-    width:420px;
+    width:410px;
   text-align:left;
-  padding-left:10px;
+  padding-left:25px;
 }
 #after {
   clear:both;
