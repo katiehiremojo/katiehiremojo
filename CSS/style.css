@@ -17,9 +17,6 @@
   display:block;
 	height: 15px;
 }
-.landingcontainer{
-  width:900px;
-}
 .blurb{
   text-align:center;  
 }
@@ -41,7 +38,7 @@
 }
 #content-1 {
     float:left;
-    width:450px;
+    width:300px;
     padding:25px;
 }
 #content-1 img {
@@ -49,19 +46,19 @@
 }
 #content-2 {
     float:left;
-    width:450px;
+    width:300px;
     padding:25px;
 }
 #content-2-1 {
     float:left;
-    width:40px;
+    width:30px;
 }
 #content-2-1 img{
   max-width:30px;
 }
 #content-2-2 {
     float:right;
-    width:350px;
+    width:270px;
 }
 #after {
   clear:both;
