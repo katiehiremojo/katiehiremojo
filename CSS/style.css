@@ -92,7 +92,7 @@
   background-color:#D3D3D3;  
 }
 .footer{
-  color: #C0C0C0;
+  width:100%;
   background-color:#000000;
 }
 .footer img{
@@ -103,12 +103,10 @@
 }
 .footercolumn{
   width:800px;
-  background-color:#000000;
-}
+  }
 #footerone{
   width:200px;
   float:left;
-  vertical-align:middle;
 }
 #footertwo{
   float:left;
