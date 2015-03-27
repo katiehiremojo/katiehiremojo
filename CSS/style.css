@@ -87,12 +87,14 @@
 .footer{
   color: #C0C0C0;
   background-color:#000000;
+  padding-bottom:20px;
 }
 .footer img{
   max-width: 120px;
 }
 .footer a{
   color:#C0C0C0;
+  padding-bottom:20px;
 }
 .footer span{
   padding-bottom:20px;
