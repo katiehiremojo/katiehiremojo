@@ -91,6 +91,10 @@
   padding:60px;
   background-color:#D3D3D3;  
 }
+.bottombanner q{
+  padding-left:2%;
+  padding-right: 2%;
+}
 .footer{
   width:100%;
   display: inline-block;
