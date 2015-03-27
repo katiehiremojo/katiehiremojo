@@ -20,13 +20,13 @@
   height: 15px;
 }
 .landingbody{
-  padding-left:5%;
-  padding-right:5%;
+  padding-left:2%;
+  padding-right:2%;
   width:100%;   
 }
 .blurb{
   text-align:center;  
-  width:900px;
+  width:80%;
 }
 .blurb span{
   font-size:24px;
@@ -38,7 +38,7 @@
 }
 .demoform {
   background-color:#E0F5FF;
-  width: 900px;
+  width: 80%;
   padding-top: 20px;
   padding-bottom:10px;
   text-align: center;
@@ -51,12 +51,12 @@
   padding-top:5px;
 }
 #column{
-  width:900px;
+  width:80%;
 }
 #content-1 {
     float:left;
     text-align:left;
-    width:450px;
+    width:50%;
     padding-top:25px;
 }
 #content-1 img {
@@ -64,7 +64,7 @@
 }
 #content-2 {
     float:left;
-    width:450px;
+    width:50%;
     padding-top:25px;
 }
 #content-2-1 {
