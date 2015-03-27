@@ -25,6 +25,7 @@
   width:100%;   
 }
 .blurb{
+  padding-top: 10px;
   text-align:center;  
   width:80%;
 }
@@ -83,6 +84,7 @@
 }
 #after {
   clear:both;
+  padding-bottom: 10px;
 }
 .bottombanner{
   font-size: 20px;
