@@ -94,11 +94,11 @@
 .footer{
   color: #C0C0C0;
   background-color:#000000;
+  vertical-align:middle;
 }
 .footer img{
   max-width: 120px;
 }
 .footer a{
   color:#C0C0C0;
-  vertical-align: middle;
 }
