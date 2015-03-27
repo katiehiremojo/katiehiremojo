@@ -87,7 +87,7 @@
 .footer{
   color: #C0C0C0;
   background-color:#000000;
-  vertical-align: top;
+  
   
 }
 .footer img{
@@ -96,4 +96,10 @@
 }
 .footer a{
   color:#C0C0C0;
+}
+.footer {
+    position: relative;
+    top: 50%; 
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
 }
