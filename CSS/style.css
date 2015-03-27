@@ -69,8 +69,8 @@
   max-width:25px;
 }
 #content-2-2 {
-    float:left;
-    width:410px;
+  float:left;
+  width:410px;
   text-align:left;
   padding-left:25px;
 }
@@ -90,6 +90,7 @@
   padding-bottom:20px;
 }
 .footer img{
+  vertical-align:bottom;
   max-width: 120px;
 }
 .footer a{
