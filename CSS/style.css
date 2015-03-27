@@ -91,9 +91,8 @@
   padding:60px;
   background-color:#D3D3D3;  
 }
-.bottombanner q{
-  padding-left:10%;
-  padding-right:30%;
+#quote{
+  width:80%;
 }
 .footer{
   width:100%;
