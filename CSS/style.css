@@ -37,13 +37,12 @@
 .demoform {
   background-color:#E0F5FF;
   width: 900px;
-  padding:15px;
+  padding: 20px 0 0 15px;
   text-align: center;
 }
-.demoform span{
+.demoform p{
   font-size:18px;
   font-weight:bold;  
-  padding-bottom:15px;  
 }
 #column{
   width:900px;
