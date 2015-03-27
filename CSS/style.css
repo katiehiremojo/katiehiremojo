@@ -93,7 +93,8 @@
 }
 .footer{
   width:100%;
-  background-color:#000000;
+  display: inline-block;
+  background-color: #000000;
 }
 .footer img{
   max-width: 120px;
@@ -103,13 +104,18 @@
 }
 .footercolumn{
   width:800px;
+  background-color: #000000;
   }
 #footerone{
   width:200px;
   float:left;
+  padding-left:40px;
+  background-color: #000000;
 }
 #footertwo{
   float:left;
   width:400px;
-  vertical-align:middle;
+  color:#C0C0C0;
+  padding-top: 25px;
+  background-color: #000000;
 }
