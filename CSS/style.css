@@ -95,18 +95,18 @@
   color: #C0C0C0;
   background-color:#000000;
 }
+.footer img{
+  max-width: 120px;
+}
+.footer a{
+  color:#C0C0C0;
+}
 .footercolumn{
   width:800px;
 }
 #footerone{
   width:200px;
   float:left;
-}
-#footerone img{
-  max-width: 120px;
-}
-#footertwo a{
-  color:#C0C0C0;
 }
 #footertwo{
   float:left;
