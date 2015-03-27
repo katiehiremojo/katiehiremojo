@@ -90,6 +90,12 @@
   background-color:#D3D3D3; 
   text-align:center;
 }
+#quote{
+  padding-left:10%;
+  padding-right:10%;
+  padding-top:15px;
+  padding-bottom:10px;
+}
 .footer{
   width:100%;
   display: inline-block;
