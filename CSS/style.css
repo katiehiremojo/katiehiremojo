@@ -87,13 +87,14 @@
 .footer{
   color: #C0C0C0;
   background-color:#000000;
-  max-height: 100px;
 }
 .footer img{
   vertical-align: bottom;
   max-width: 120px;
 }
+.footer span{
+  vertical-align: top;
+}
 .footer a{
   color:#C0C0C0;
-  vertical-align: middle;
 }
