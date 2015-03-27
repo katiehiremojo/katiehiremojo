@@ -92,18 +92,20 @@
   background-color:#D3D3D3;  
 }
 .footer{
-  width:100%;
   color: #C0C0C0;
   background-color:#000000;
+}
+.footercolumn{
+  width:800px;
 }
 #footerone{
   width:200px;
   float:left;
 }
-.footer img{
+#footerone img{
   max-width: 120px;
 }
-.footer a{
+#footertwo a{
   color:#C0C0C0;
 }
 #footertwo{
