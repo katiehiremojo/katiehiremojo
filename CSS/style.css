@@ -37,7 +37,8 @@
 .demoform {
   background-color:#E0F5FF;
   width: 900px;
-  padding: 20px;
+  padding-top: 20px;
+  padding-botton:10px;
   text-align: center;
 }
 .demoform span{
