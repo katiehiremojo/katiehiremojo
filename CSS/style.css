@@ -85,14 +85,10 @@
   clear:both;
 }
 .bottombanner{
-  text-align:center;
   font-size: 20px;
   font-weight:bold;
-  background-color:#D3D3D3;  
-}
-#quote{
+  background-color:#D3D3D3; 
   text-align:center;
-  width:80%;
 }
 .footer{
   width:100%;
