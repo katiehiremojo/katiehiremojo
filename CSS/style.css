@@ -98,6 +98,9 @@
   padding-left:40px;
 }
 #content-2-2 p{
+  max-width: 10px;
+}  
+#content-2-2 p{
   padding-bottom: 10px; 
 }
 #after {
