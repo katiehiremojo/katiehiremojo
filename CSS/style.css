@@ -66,11 +66,7 @@
 #content-2 {
     float:left;
     width:50%;
-    padding-top:25px;
-}
-#content-2 p, h1, div {
-  padding: 0;
-  margin: 0;
+    padding-top:10px;
 }
 .bullet {
   text-align: left;
@@ -78,13 +74,16 @@
   margin-left: 2%;
   float: left;
 }
+.bullet p{
+  padding-top: 7px;
+}
 .bulletwrapper {
   width: 100%;
   clear: both;
   padding: 3%;
 }
 .bulletwrapper img {
-  width: 10%;
+  width: 11%;
   float: left;
   padding:3%;
 }
