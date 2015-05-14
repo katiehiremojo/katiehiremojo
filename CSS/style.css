@@ -77,6 +77,10 @@
     margin-left: 2%;
     float: left;
 }
+.bullet h1 {
+  font-size:2em;
+  font-style: bold;
+}
 .bulletwrapper {
     width: 50%;
     clear: both;
