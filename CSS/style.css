@@ -81,6 +81,7 @@
 .bulletwrapper {
   width: 100%;
   clear: both;
+  padding: 3%;
 }
 .bulletwrapper img {
   width: 10%;
