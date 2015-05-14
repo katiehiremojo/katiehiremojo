@@ -68,37 +68,22 @@
     width:50%;
     padding-top:25px;
 }
-#content-2 img{
-  float:left;
-  max-width:25px;
-  padding: 5px;
+#content-2 p, h1, div {
+  padding: 0;
+  margin: 0;
 }
-#content-2 span{
-  float: left;
+.bullet {
+    width: 80%;
+    margin-left: 2%;
+    float: left;
 }
-#bolt{
-  padding-bottom:50px;
+.bulletwrapper {
+    width: 50%;
+    clear: both;
 }
-#airplane{
-  padding-bottom:75px;
-}
-#filter{
-  padding-bottom:70px;
-}
-#lightbulb{
-  padding-bottom:70px;
-}
-#heart{
-  padding-bottom:50px;
-}
-#content-2-2 {
-  float:left;
-  width:92%;
-  text-align:left;
-  padding-left:40px;
-}
-#content-2-2 p{
-  padding-bottom: 10px; 
+.bulletwrapper img {
+    width: 10%;
+    float: left;
 }
 #after {
   clear:both;
