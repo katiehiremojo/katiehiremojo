@@ -75,7 +75,7 @@
   float: left;
 }
 .bullet p{
-  padding-top: 7px;
+  padding-top: 1px;
 }
 .bulletwrapper {
   width: 100%;
@@ -83,7 +83,7 @@
   padding: 3%;
 }
 .bulletwrapper img {
-  width: 11%;
+  width: 12%;
   float: left;
   padding:3%;
 }
