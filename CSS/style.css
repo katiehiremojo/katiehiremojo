@@ -73,17 +73,20 @@
   margin: 0;
 }
 .bullet {
-    width: 80%;
-    margin-left: 2%;
-    float: left;
+  text-align: left;
+  width: 80%;
+  margin-left: 2%;
+  float: left;
 }
 .bulletwrapper {
-    width: 50%;
-    clear: both;
+  width: 100%;
+  clear: both;
 }
 .bulletwrapper img {
-    width: 10%;
-    float: left;
+  width: 10%;
+  float: left;
+  padding-left: 3%;
+  padding-right: 1%;
 }
 #after {
   clear:both;
